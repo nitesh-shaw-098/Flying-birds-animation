@@ -45,7 +45,8 @@ Flying-birds-animation/
 
 ## 📸 Preview
 
-(Add a screenshot of your project here)
+![Flying Birds Animation Preview](preview.png)
+
 
 ---
 
@@ -60,4 +61,5 @@ Created by **[Nitesh Shaw](https://github.com/nitesh-shaw-098)**
 This project is open-source and available under the **MIT License**.
 
 ```
+
 
